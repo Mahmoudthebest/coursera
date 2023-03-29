@@ -1,2 +1,0 @@
-# coursera
-coursera test repository
